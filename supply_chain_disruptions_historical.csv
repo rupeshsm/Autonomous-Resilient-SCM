@@ -1,0 +1,151 @@
+Disruption_ID,Disruption_Type,Severity,Disruption_Duration_Months,Detection_Time_Hours,Recovery_Time_Hours,Affected_Tiers,OTIF,Geographic_Region,Year,Cascade_Depth,Financial_Impact_USD
+DISR-0001,Supplier Failure,Critical,17.79,3.58,15355.57,1,0.208,Asia-Pacific,2022,1,4454391.22
+DISR-0002,Pandemic,Low,1.33,146.05,470.45,2,0.833,Asia-Pacific,2019,1,749236.37
+DISR-0003,Transportation,Low,1.09,159.53,474.65,2,0.793,Europe,2021,1,461407.94
+DISR-0004,Quality Issue,Medium,1.7,79.4,884.86,2,0.685,Latin America,2019,2,1077214.8
+DISR-0005,Geopolitical,Critical,11.11,12.68,11654.37,2,0.371,North America,2022,3,2746075.2
+DISR-0006,Geopolitical,Low,1.01,82.64,657.55,4,0.735,Europe,2023,4,912986.23
+DISR-0007,Natural Disaster,High,5.15,27.43,3496.65,2,0.516,North America,2022,2,5008226.11
+DISR-0008,Transportation,High,3.24,6.79,2787.03,1,0.569,Europe,2023,1,538358.54
+DISR-0009,Quality Issue,Low,1.26,78.56,733.58,3,0.724,North America,2018,3,1306109.07
+DISR-0010,Transportation,High,5.78,24.75,3767.48,1,0.563,North America,2022,1,1134819.36
+DISR-0011,Natural Disaster,Medium,3.32,83.8,2456.24,2,0.725,North America,2018,1,2643137.7
+DISR-0012,Pandemic,Medium,2.83,91.56,1128.45,1,0.787,Asia-Pacific,2021,1,308167.61
+DISR-0013,Transportation,Medium,2.85,65.36,1545.75,1,0.772,Asia-Pacific,2019,1,1386295.49
+DISR-0014,Geopolitical,Medium,2.99,38.52,2244.61,4,0.617,Asia-Pacific,2023,3,3040295.31
+DISR-0015,Geopolitical,Low,1.27,127.82,667.55,3,0.764,Middle East,2019,2,595208.52
+DISR-0016,Geopolitical,High,7.32,21.27,7598.31,2,0.49,Europe,2018,1,1216196.57
+DISR-0017,Supplier Failure,Medium,1.94,57.31,1073.4,2,0.6,Europe,2023,2,490397.3
+DISR-0018,Cyber Attack,Low,0.88,75.87,360.41,1,0.862,Latin America,2019,1,249830.48
+DISR-0019,Supplier Failure,Low,0.93,156.78,326.08,1,0.888,North America,2022,1,187535.83
+DISR-0020,Supplier Failure,Medium,3.35,69.19,1448.16,1,0.772,Middle East,2020,1,1417041.67
+DISR-0021,Quality Issue,High,6.87,31.28,6213.8,2,0.377,North America,2018,2,3351177.56
+DISR-0022,Natural Disaster,Low,1.24,66.2,455.16,2,0.825,Middle East,2019,3,401565.13
+DISR-0023,Supplier Failure,Medium,2.86,26.41,1796.07,2,0.598,North America,2018,2,1874531.2
+DISR-0024,Supplier Failure,Low,1.35,89.05,529.49,1,0.889,Latin America,2024,1,496867.16
+DISR-0025,Supplier Failure,Medium,3.12,33.18,2639.51,4,0.491,Asia-Pacific,2018,5,1562107.35
+DISR-0026,Transportation,Low,0.44,75.51,211.53,2,0.778,Middle East,2023,2,110377.21
+DISR-0027,Geopolitical,High,6.03,34.53,5479.09,2,0.537,North America,2024,2,802015.83
+DISR-0028,Cyber Attack,Medium,1.86,37.08,1348.02,2,0.633,Asia-Pacific,2025,2,1418736.97
+DISR-0029,Quality Issue,Critical,10.81,11.63,14910.84,2,0.362,Middle East,2023,2,7539154.25
+DISR-0030,Natural Disaster,Low,0.98,108.71,342.08,1,0.898,Asia-Pacific,2020,2,258312.22
+DISR-0031,Quality Issue,Medium,3.18,91.11,1533.13,1,0.661,Asia-Pacific,2024,1,1367007.91
+DISR-0032,Geopolitical,Low,1.4,132.87,558.89,3,0.742,Asia-Pacific,2025,3,1732716.59
+DISR-0033,Natural Disaster,Critical,13.28,10.76,13082.96,1,0.216,Europe,2022,2,4162077.68
+DISR-0034,Demand Shock,High,7.59,23.84,4135.11,1,0.404,Asia-Pacific,2018,1,3345080.56
+DISR-0035,Pandemic,Low,1.3,62.96,538.8,1,0.813,Asia-Pacific,2019,2,185417.11
+DISR-0036,Transportation,High,5.35,30.02,3467.22,1,0.636,Latin America,2021,1,536946.48
+DISR-0037,Supplier Failure,High,4.34,39.33,3514.26,3,0.467,North America,2018,4,2231462.97
+DISR-0038,Natural Disaster,Medium,2,62.69,1449.27,2,0.681,Europe,2025,3,302756.34
+DISR-0039,Quality Issue,Medium,1.87,77.1,1111.06,2,0.705,Middle East,2018,2,1080958.32
+DISR-0040,Supplier Failure,Low,0.82,64.9,207.23,1,0.85,Latin America,2020,1,386607.5
+DISR-0041,Natural Disaster,Low,0.77,157.78,295.97,2,0.792,Europe,2022,2,104265.07
+DISR-0042,Cyber Attack,High,5.98,4.58,5772.64,2,0.555,Asia-Pacific,2021,1,1255195.56
+DISR-0043,Natural Disaster,Critical,17.53,4.42,15240.68,1,0.429,Europe,2024,2,4443672.03
+DISR-0044,Demand Shock,Medium,3.49,60.16,2218.18,2,0.737,North America,2024,3,3282301.43
+DISR-0045,Geopolitical,Medium,2.87,39.11,1592.64,1,0.759,Europe,2024,1,551815.61
+DISR-0046,Quality Issue,Medium,1.48,26.63,886.85,2,0.637,Europe,2025,2,823636.77
+DISR-0047,Supplier Failure,High,2.86,38.12,2481.8,2,0.469,Asia-Pacific,2023,2,393008.54
+DISR-0048,Cyber Attack,High,4.92,21.63,3473.87,1,0.611,North America,2023,1,574431.85
+DISR-0049,Cyber Attack,High,3.5,41.92,2956.62,1,0.557,Middle East,2019,1,1728942.44
+DISR-0050,Geopolitical,High,3.99,32.34,3376.72,2,0.594,Middle East,2021,3,3864741.24
+DISR-0051,Pandemic,Medium,1.39,75.55,907.96,2,0.745,Asia-Pacific,2024,3,145179.92
+DISR-0052,Transportation,Low,0.53,75.73,304.77,3,0.798,Asia-Pacific,2023,4,760521.33
+DISR-0053,Demand Shock,Low,0.38,143.99,125.8,2,0.785,Europe,2025,3,256579.02
+DISR-0054,Demand Shock,High,3.81,8.38,2253.78,1,0.469,Asia-Pacific,2019,2,1678545.92
+DISR-0055,Quality Issue,Medium,3.14,83.78,1399.45,1,0.666,Asia-Pacific,2022,1,799547.42
+DISR-0056,Demand Shock,Low,0.51,83.18,269.56,2,0.849,North America,2019,2,287658.58
+DISR-0057,Natural Disaster,Low,0.36,72.95,79.13,1,0.882,Latin America,2023,1,97193.15
+DISR-0058,Geopolitical,High,5.71,22.54,6123.15,2,0.396,Asia-Pacific,2020,2,3998015.42
+DISR-0059,Natural Disaster,Low,0.68,79.13,322.94,3,0.741,Latin America,2025,4,230199.85
+DISR-0060,Supplier Failure,Low,0.59,122.9,231.55,2,0.795,Asia-Pacific,2020,3,74915.98
+DISR-0061,Supplier Failure,Medium,2.09,45.2,1180.75,1,0.647,Asia-Pacific,2024,2,394108.11
+DISR-0062,Supplier Failure,High,3.27,42.21,2889,2,0.376,Europe,2020,1,2400875.48
+DISR-0063,Transportation,High,6.9,22.71,4592.91,2,0.533,Latin America,2024,2,1943509.94
+DISR-0064,Supplier Failure,Low,0.93,124.02,327.45,2,0.836,Latin America,2024,2,656662.95
+DISR-0065,Supplier Failure,High,7.09,47.31,7866.56,3,0.507,North America,2023,4,10347013.15
+DISR-0066,Cyber Attack,Low,0.59,50.21,244.12,1,0.888,North America,2020,1,54430.64
+DISR-0067,Natural Disaster,Medium,2.44,43.73,2225.08,4,0.52,Europe,2024,4,3442068.5
+DISR-0068,Transportation,High,7.06,13.08,5740.81,3,0.516,Asia-Pacific,2021,4,5288383.34
+DISR-0069,Natural Disaster,Medium,3.25,86.92,1589.41,1,0.68,Middle East,2022,1,1432158.05
+DISR-0070,Pandemic,High,6.16,11.72,5130.53,1,0.545,North America,2019,1,799059.22
+DISR-0071,Transportation,High,4.61,26.83,2399.96,1,0.608,Asia-Pacific,2019,1,1667352.54
+DISR-0072,Geopolitical,Medium,2.85,29.96,1394.89,1,0.751,Europe,2023,2,1217382.86
+DISR-0073,Natural Disaster,Low,0.74,82.64,215.7,1,0.828,Middle East,2020,1,351556.54
+DISR-0074,Transportation,Medium,1.74,64.78,1048.6,2,0.617,Asia-Pacific,2020,3,1243966.41
+DISR-0075,Transportation,Low,1.42,135.91,372.92,1,0.897,Asia-Pacific,2024,2,388694.67
+DISR-0076,Transportation,Low,0.58,119.41,131.23,1,0.85,Europe,2025,1,190258.13
+DISR-0077,Transportation,Critical,13.16,8.69,21007.33,3,0.323,Europe,2018,2,17410965.95
+DISR-0078,Natural Disaster,Medium,1.19,76.43,554.75,1,0.662,Europe,2024,1,365061.52
+DISR-0079,Supplier Failure,High,4.89,14.84,6252.39,3,0.35,North America,2022,4,934100.17
+DISR-0080,Natural Disaster,Medium,2.74,43.59,1334.13,1,0.728,Latin America,2021,1,1284859.74
+DISR-0081,Transportation,High,3,44.36,1661.81,1,0.412,Asia-Pacific,2019,2,1080861.11
+DISR-0082,Quality Issue,Medium,2.12,37.33,1311.66,2,0.575,Middle East,2024,3,1502787.54
+DISR-0083,Supplier Failure,Medium,2.83,82.07,1848.32,2,0.612,Middle East,2018,2,832324.61
+DISR-0084,Natural Disaster,Medium,3.12,41.98,2327.08,3,0.656,Asia-Pacific,2018,3,3243225.6
+DISR-0085,Supplier Failure,Low,1.48,161.29,433.31,2,0.779,Asia-Pacific,2024,2,672627.39
+DISR-0086,Supplier Failure,High,7.59,11.95,8602.26,3,0.321,Latin America,2023,4,7811358.7
+DISR-0087,Transportation,Low,0.29,131.69,81.95,1,0.808,Asia-Pacific,2019,1,28410.39
+DISR-0088,Quality Issue,Low,1.46,161.31,466.13,1,0.814,North America,2023,1,505204.37
+DISR-0089,Demand Shock,Medium,3.11,46.98,2683.48,3,0.693,Europe,2021,2,4662538.53
+DISR-0090,Cyber Attack,Low,1,75.6,385.46,3,0.792,North America,2018,4,215086.25
+DISR-0091,Natural Disaster,Critical,14.36,8.82,26754.86,4,0.284,Middle East,2018,5,28129998.31
+DISR-0092,Transportation,Critical,9.78,13.41,12777.8,2,0.32,Asia-Pacific,2022,2,4559603.87
+DISR-0093,Transportation,Critical,13.51,21.38,12723.17,1,0.392,North America,2021,2,5969245.6
+DISR-0094,Quality Issue,Medium,1.06,86.65,618.94,3,0.525,Asia-Pacific,2018,4,1278593.63
+DISR-0095,Transportation,Low,0.91,160.69,354.02,1,0.8,Asia-Pacific,2021,1,277693.16
+DISR-0096,Cyber Attack,Critical,10.21,18.65,14123.64,3,0.23,Europe,2019,2,11709914.68
+DISR-0097,Cyber Attack,Medium,2.57,86.9,2353.24,3,0.546,North America,2020,3,3433509.74
+DISR-0098,Supplier Failure,Critical,11.01,10.69,14109.99,2,0.34,Asia-Pacific,2018,3,5105626.45
+DISR-0099,Natural Disaster,Critical,7.33,9.16,9651.23,3,0.276,Asia-Pacific,2022,4,4335656.65
+DISR-0100,Natural Disaster,High,3.78,5.85,3091.06,3,0.303,Asia-Pacific,2019,2,3973729.05
+DISR-0101,Natural Disaster,Low,0.78,94.12,284.7,1,0.878,Asia-Pacific,2024,2,322553.93
+DISR-0102,Quality Issue,Medium,3.37,80.62,2048.23,3,0.616,Latin America,2021,2,3973516.22
+DISR-0103,Supplier Failure,High,7.34,45.57,6410.51,2,0.447,Asia-Pacific,2024,2,6004356.96
+DISR-0104,Cyber Attack,Medium,1.42,95.36,930.03,3,0.511,Asia-Pacific,2023,2,1048013.21
+DISR-0105,Demand Shock,Low,1.06,120.93,347.02,1,0.877,Latin America,2019,2,443106.92
+DISR-0106,Geopolitical,Medium,1.44,39.88,923.07,3,0.544,Europe,2024,3,449686.4
+DISR-0107,Supplier Failure,Critical,10.2,2.33,10904.15,1,0.229,North America,2025,1,3009204.96
+DISR-0108,Transportation,High,7.6,47.78,4307.67,1,0.551,North America,2025,1,399694.62
+DISR-0109,Geopolitical,Medium,2.9,74.11,1821.87,3,0.537,Asia-Pacific,2018,3,1705753.52
+DISR-0110,Natural Disaster,Low,0.53,74.86,176.14,1,0.841,Asia-Pacific,2021,1,113901.08
+DISR-0111,Supplier Failure,Medium,2.45,30.59,1346.47,1,0.747,Asia-Pacific,2020,1,559280.39
+DISR-0112,Geopolitical,Critical,7.55,21.44,15272.02,4,0.1,North America,2019,5,10961399.34
+DISR-0113,Demand Shock,Low,1.26,126.63,803.16,4,0.741,North America,2018,3,1133249.77
+DISR-0114,Transportation,Medium,2.02,50.83,1093.31,2,0.605,North America,2022,2,1017725.01
+DISR-0115,Quality Issue,High,5.23,7.57,3963.59,2,0.429,Europe,2023,1,1641120.22
+DISR-0116,Transportation,High,2.92,41.45,2588.7,2,0.48,Asia-Pacific,2021,2,1272905.71
+DISR-0117,Transportation,High,5.76,40.29,3623.15,1,0.48,Europe,2019,1,877082.87
+DISR-0118,Geopolitical,High,5.61,15.75,4603.17,1,0.451,Europe,2025,2,465283.11
+DISR-0119,Demand Shock,Medium,2.65,85.24,1882.82,2,0.608,Latin America,2019,2,1704224.9
+DISR-0120,Cyber Attack,Low,1.3,131.7,752.69,3,0.738,Europe,2020,3,1367713.46
+DISR-0121,Transportation,High,6.64,10.98,8723.43,3,0.332,Asia-Pacific,2025,4,6549111.46
+DISR-0122,Demand Shock,High,2.66,40.34,2343.23,3,0.466,Asia-Pacific,2020,3,2063407.11
+DISR-0123,Supplier Failure,High,6.59,11.07,5261.34,1,0.442,Europe,2022,2,1455754.73
+DISR-0124,Natural Disaster,Critical,12.09,1.15,12939.92,2,0.246,Asia-Pacific,2023,3,10602933.44
+DISR-0125,Geopolitical,Medium,3.45,69.49,1436.84,1,0.673,Latin America,2022,1,978374.47
+DISR-0126,Supplier Failure,Medium,2.35,80.15,1170.38,2,0.598,Latin America,2018,2,1248469.67
+DISR-0127,Transportation,High,5.48,46.37,4464.8,2,0.442,North America,2018,1,674466.67
+DISR-0128,Transportation,Medium,3.33,31.38,2996.75,3,0.562,Latin America,2022,4,2033579.61
+DISR-0129,Natural Disaster,High,2.87,17.24,2180.52,1,0.633,Europe,2023,1,634522.64
+DISR-0130,Cyber Attack,High,5.7,19.22,4148.33,1,0.639,Europe,2022,1,1307980.43
+DISR-0131,Supplier Failure,High,7.29,46.83,6219.83,1,0.463,Europe,2023,1,2267755.46
+DISR-0132,Geopolitical,Medium,1.33,78.59,774.58,3,0.696,Middle East,2023,4,1157583.37
+DISR-0133,Natural Disaster,Medium,1.81,59.18,1237.97,2,0.613,Europe,2024,1,1171277.4
+DISR-0134,Supplier Failure,Low,0.81,80.84,348.29,1,0.857,Europe,2025,2,319299.95
+DISR-0135,Demand Shock,Medium,2.13,35.78,1131.66,1,0.661,Asia-Pacific,2021,1,885746.83
+DISR-0136,Supplier Failure,Low,0.53,57.89,248.19,2,0.785,North America,2023,2,395544.71
+DISR-0137,Cyber Attack,Medium,1.68,92.46,660.85,1,0.714,North America,2020,2,806375.91
+DISR-0138,Transportation,Medium,3.36,54.22,2676.06,3,0.62,North America,2023,3,586703
+DISR-0139,Supplier Failure,Low,0.59,166.08,234.58,2,0.761,North America,2023,2,162958.11
+DISR-0140,Pandemic,Medium,1.57,39.34,577.55,1,0.67,North America,2023,1,83843.17
+DISR-0141,Pandemic,Low,0.71,151.72,226.14,1,0.803,North America,2024,1,242368.17
+DISR-0142,Geopolitical,Low,0.48,152.23,351.37,4,0.673,Asia-Pacific,2025,5,871898.39
+DISR-0143,Cyber Attack,High,7.15,37.49,5212.8,1,0.617,North America,2024,1,1140904.29
+DISR-0144,Supplier Failure,Medium,1.08,90.3,533.3,1,0.641,Europe,2018,1,504538.79
+DISR-0145,Supplier Failure,Low,0.85,62.08,331.27,3,0.731,Latin America,2024,3,196656.83
+DISR-0146,Natural Disaster,Medium,2.08,38.44,1548.3,3,0.687,Europe,2020,2,2935896.36
+DISR-0147,Quality Issue,High,5.7,15.84,8569.11,4,0.422,Asia-Pacific,2020,3,4747648.77
+DISR-0148,Cyber Attack,Low,0.82,49.39,303.56,3,0.761,North America,2024,3,235272.86
+DISR-0149,Natural Disaster,Medium,2.2,67.2,930.53,1,0.661,North America,2025,1,591013.04
+DISR-0150,Supplier Failure,Low,1.33,141.58,297.57,1,0.852,North America,2022,1,220180.78
